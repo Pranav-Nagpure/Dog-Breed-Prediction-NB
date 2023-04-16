@@ -7,6 +7,7 @@
 ### Built Using
   
 [![Python][python-shield]][python-url]
+[![ScikitLearn][scikit-learn-shield]][scikit-learn-url]
 [![Keras][keras-shield]][keras-url]
 [![TensorFlow][tensorflow-shield]][tensorflow-url]
 [![Matplotlib][matplotlib-shield]][matplotlib-url]
@@ -46,9 +47,3 @@ Data Source: https://www.kaggle.com/datasets/catherinehorng/dogbreedidfromcomp
 
 [pandas-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/pandas-shield.png
 [pandas-url]: https://pandas.pydata.org "Pandas"
-
-[anaconda-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/anaconda-shield.png
-[anaconda-url]: https://www.anaconda.com "Anaconda"
-
-[vscode-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/vscode-shield.png
-[vscode-url]: https://code.visualstudio.com "VSCode"
