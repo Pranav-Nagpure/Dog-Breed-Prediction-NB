@@ -22,7 +22,9 @@ Visit the <a href="https://github.com/Pranav-Nagpure/Dog-Breed-Prediction">GitHu
 
 ## __About__
 <p align="justify">
-Predict the Breed of Dogs from images using a <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">Convolutional Neural Network(CNN)</a>. Due to limited computational power only 3 breeds from the dataset were used.
+Predict the Breed of Dogs from images using a <a href="https://arxiv.org/abs/1610.02357">Xception Convolutional Neural Network</a>. and Logistic Regression using transfer learning.
+
+The network is pretrained on the imagenet dataset.
 
 Data Source: https://www.kaggle.com/datasets/catherinehorng/dogbreedidfromcomp
 </p>
