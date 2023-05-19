@@ -14,8 +14,6 @@
 [![NumPy][numpy-shield]][numpy-url]
 [![Pandas][pandas-shield]][pandas-url]
 
-Visit the <a href="https://dogbreed-predictor.onrender.com">Web Application</a> deployed on render
-
 Visit the <a href="https://github.com/Pranav-Nagpure/Dog-Breed-Prediction">GitHub Repository</a> of Web Application
 
 </div>
